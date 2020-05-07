@@ -1,15 +1,19 @@
 {
-  "BICI": [
+  "Noleggio": [
     {
-      "id": 1,
+      
+      "idUtente": 1,
+      "idBici": 1,
       "title": "Bici 1"
     },
     {
-      "id": 2,
+      "idUtente": 2,
+      "idBici": 2,
       "title": "Bici 2"
     },
     {
-      "id": 3,
+      "idUtente": 3,
+      "idBici": 3,
       "title": "Bici 3"
     }
   ]
